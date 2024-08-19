@@ -85,6 +85,47 @@ The Supply Chain View is designed to enhance the efficiency of the entire supply
 
 - Revenue Analysis: The report provides a detailed breakdown of revenue across different divisions, customers, products, and channels, along with a ribbon chart for manufacturers. This allows executives to quickly identify which areas of the business are driving growth and which may require attention.
 
-### Additional Insights:
+## Learnt Power BI fundamentals
+
+1. creating calcualting columns and DAX measures
+2. Data Modelling ,data validation techniques and using KPI indicators
+3. using bookmarks to switch between two visuals and conditional formatting
+4. page navigation with buttons
+5. using tooltips to save page area
+6. Dynamic titles based on the applied filters
+7. PowerBI services for publishing and sharing reports online
+8. Auto refresh setup for data through gateway
+9. Creating date table using M language
+    
+## Tech Stacks
+
+1. SQL
+2. PowerBI Desktop
+3. DAX language
+4. Dax studio( TO REDUCE FILE SIZE)
+5. Project Charter file
+
+## Business Related Terms
+
+1. Gross Margin,Gross Margin %
+2. Gross Sales , Gross Sales %
+3. Pre _ invoice deductions and Post _ invoice deductions
+4. Net sales , Net Invoice Sales
+5. Net Profit and Net Profit %
+6. COGS(cost of goods sold)
+7. YTG (year to go)
+8. YTD ( year to date)
+9. Direct ,retailer, consumer and distributors
+10. Soft Skills
+11. Stakeholders mapping analysis
+12. Effective communication with stakeholders feedback and management
+13. Business and domain knowledge in sales,finance,marketing and supply chain.
+    
+## Conclusion
+This dashboard answers many business questions based on different scenerio.
+
+This report can be used to take data driven decision to make AtliQ more profitable.
+
+## Additional Insights:
 
 The Executive View is tailored for top-level management, providing a high-level overview of the company’s operations. It is a strategic tool that enables executives to make informed decisions quickly, based on the latest data. By providing a clear picture of organizational performance, this report supports the company’s goal of staying competitive and agile in a fast-paced market.
