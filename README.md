@@ -3,7 +3,7 @@
 This project is designed to streamline and optimize key areas of AtliQ Hardwares' operations, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each area are detailed below:
 ### Live Dashboard Link:https://app.powerbi.com/view?r=eyJrIjoiZTQyMWIwZDAtYjU5Mi00M2Y2LTg4MTYtMDE2Y2M3MmM1ZDM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-### project video link : https://youtu.be/n_OpLvQTmx0
+### project presentation video link : https://youtu.be/n_OpLvQTmx0
 
 ## Finance View
 
