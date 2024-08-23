@@ -85,6 +85,10 @@ The Supply Chain View is designed to enhance the efficiency of the entire supply
 
 - Revenue Analysis: The report provides a detailed breakdown of revenue across different divisions, customers, products, and channels, along with a ribbon chart for manufacturers. This allows executives to quickly identify which areas of the business are driving growth and which may require attention.
 
+## Additional Insights:
+
+The Executive View is tailored for top-level management, providing a high-level overview of the company’s operations. It is a strategic tool that enables executives to make informed decisions quickly, based on the latest data. By providing a clear picture of organizational performance, this report supports the company’s goal of staying competitive and agile in a fast-paced market.
+
 ## Learnt Power BI fundamentals
 
 1. creating calcualting columns and DAX measures
@@ -125,7 +129,3 @@ The Supply Chain View is designed to enhance the efficiency of the entire supply
 This dashboard answers many business questions based on different scenerio.
 
 This report can be used to take data driven decision to make AtliQ more profitable.
-
-## Additional Insights:
-
-The Executive View is tailored for top-level management, providing a high-level overview of the company’s operations. It is a strategic tool that enables executives to make informed decisions quickly, based on the latest data. By providing a clear picture of organizational performance, this report supports the company’s goal of staying competitive and agile in a fast-paced market.
